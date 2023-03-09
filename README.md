@@ -1,7 +1,3 @@
----
-description: Yui's Notes
----
-
 # Home
 
 ### ArchLinux
