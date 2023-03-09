@@ -1,5 +1,5 @@
 # Home
 
-### ArchLinux
+## ArchLinux
 
-[archlinuxinstallmanual.md](archlinuxinstallmanual.md)
+[archlinuxinstallmanual](archlinuxinstallmanual.md)
