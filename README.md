@@ -2,4 +2,4 @@
 
 ### ArchLinux
 
-[archlinuxinstallmanual.md](archlinuxinstallmanual.md "mention")
+[archlinuxinstallmanual.md](archlinuxinstallmanual.md)
