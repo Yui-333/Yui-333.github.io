@@ -2,4 +2,4 @@
 
 ## ArchLinux
 
-[archlinuxinstallmanual](archlinuxinstallmanual.md)
+[archlinuxinstallmanual](/docs/archlinux/archlinuxinstallmanual.md)
